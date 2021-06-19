@@ -10,5 +10,10 @@
     "lacerba"
   ],
   "author": "alecursio",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+     "url": "https://github.com/super4le/ale-lacerba-first-project", 
+  }
 }
+
+
